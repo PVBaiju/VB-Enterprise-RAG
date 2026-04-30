@@ -1,6 +1,29 @@
-<<<<<<< HEAD
-# Enterprise Document Q&A Assistant
+# Enterprise-RAG-Document Q&A Assistant
+<img width="1536" height="1024" alt="Arch Diagram + Flow" src="https://github.com/user-attachments/assets/90938e47-33b5-47a9-9497-8aed1806987a" />
 
+GENAI project--employee policy details
+---
+
+**Status**: ✅ Production Ready (Development/Testing)  
+**Last Updated**: April 2026  
+**Version**: 1.0
+## For Databricks Migration
+
+See `MIGRATION_STATUS.md` for:
+- What was removed
+- What was added
+- How to upgrade back to Databricks version
+
+---
+
+## Support
+
+- 📖 **Setup Issues?** → See `GROQ_SETUP.md`
+- 🏗️ **Architecture Questions?** → See `GROQ_LOCAL_VERSION.md`
+- 🔄 **Migrating from Databricks?** → See `MIGRATION_STATUS.md`
+
+
+=======
 ## Quick Start (5 Minutes)
 
 ### 1. Get Groq API Key
@@ -172,31 +195,7 @@ pip install --upgrade -r requirements.txt
 
 ---
 
-## For Databricks Migration
 
-See `MIGRATION_STATUS.md` for:
-- What was removed
-- What was added
-- How to upgrade back to Databricks version
 
----
 
-## Support
 
-- 📖 **Setup Issues?** → See `GROQ_SETUP.md`
-- 🏗️ **Architecture Questions?** → See `GROQ_LOCAL_VERSION.md`
-- 🔄 **Migrating from Databricks?** → See `MIGRATION_STATUS.md`
-
----
-
-**Status**: ✅ Production Ready (Development/Testing)  
-**Last Updated**: April 2026  
-**Version**: 1.0
-=======
-
-# Enterprise-RAG-Document Q&A Assistant
-<img width="1536" height="1024" alt="Arch Diagram + Flow" src="https://github.com/user-attachments/assets/90938e47-33b5-47a9-9497-8aed1806987a" />
-
-GENAI project--employee policy details
-
->>>>>>> cd929e96bac6867b2bd823522ac471b592667ba9
