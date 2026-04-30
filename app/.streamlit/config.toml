@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#5f7d94"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F2F1"
+textColor = "#242424"
+font = "sans serif"
+
+[server]
+port = 8000
+headless = true
+runOnSave = true
+maxUploadSize = 200
+fileWatcherType = "none"
+
+[client]
+showErrorDetails = true

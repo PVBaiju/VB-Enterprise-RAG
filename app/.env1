@@ -1,0 +1,5 @@
+# Google Gemini AI Configuration (Get from https://aistudio.google.com/app/apikey)
+GOOGLE_API_KEY=AIzaSyDt_9OJkKoID9ICjMTO7oXWAPOyIEzFUgM
+
+# Google Model Name (default: gemini-1.5-flash-latest - free tier)
+GOOGLE_MODEL_NAME=gemini-3-flash-preview
